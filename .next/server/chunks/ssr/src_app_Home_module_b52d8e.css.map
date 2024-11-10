@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/src/app/Home.module.css"],"sourcesContent":[".container {\r\n    max-width: 800px;\r\n    margin: 40px auto;\r\n    text-align: center;\r\n    padding: 20px;\r\n    background-color: #fff;\r\n    border: 1px solid #ddd;\r\n    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);\r\n  }\r\n  \r\n  h1 {\r\n    font-size: 36px;\r\n    color: #333;\r\n  }\r\n  \r\n  input[type=\"text\"] {\r\n    width: 50%;\r\n    height: 30px;\r\n    font-size: 18px;\r\n    padding: 10px;\r\n    border: 1px solid #ccc;\r\n  }\r\n  \r\n  button[type=\"submit\"] {\r\n    background-color: #4CAF50;\r\n    color: #fff;\r\n    padding: 10px 20px;\r\n    border: none;\r\n    border-radius: 5px;\r\n    cursor: pointer;\r\n  }\r\n  \r\n  button[type=\"submit\"]:hover {\r\n    background-color: #3e8e41;\r\n  }\r\n  \r\n    "],"names":[],"mappings":"AAAA;;;;;;;;;;AAUE;;;;;AAKA;;;;;;;;AAQA;;;;;;;;;AASA"}},
+    {"offset": {"line": 36, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

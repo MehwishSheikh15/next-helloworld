@@ -1,0 +1,39 @@
+/* [project]/src/app/Home.module.css [app-client] (css) */
+.Home-module__jKgjFW__container {
+  max-width: 800px;
+  margin: 40px auto;
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+h1 {
+  font-size: 36px;
+  color: #333;
+}
+
+input[type="text"] {
+  width: 50%;
+  height: 30px;
+  font-size: 18px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+button[type="submit"] {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+
+/*# sourceMappingURL=src_app_Home_module_ee8d7d.css.map*/
